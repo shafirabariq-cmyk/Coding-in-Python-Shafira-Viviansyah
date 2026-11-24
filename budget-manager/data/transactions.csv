@@ -1,0 +1,12 @@
+id,date,kind,category,amount,currency
+T001,2026-09-01,income,salary,1500.00,EUR
+T002,2026-09-02,expense,tuition,900.00,EUR
+T003,2026-09-04,expense,food,18.50,EUR
+T004,2026-09-05,expense,food,-3.00,EUR
+T005,2026-09-06,expense,gym,25.00,EUR
+T006,2026-09-07,expense,shopping,abc,EUR
+T007,2026-13-40,expense,food,10.00,EUR
+T008,2026-09-08,expense,shopping,250000.00,IDR
+T009,2026-09-09,expense,electricity,45.20,GBP
+T010,2026-09-10,transfer,other,100.00,EUR
+T011,2026-09-12,Expense,Holiday,320.00,usd

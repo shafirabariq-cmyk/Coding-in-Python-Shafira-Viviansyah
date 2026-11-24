@@ -1,2 +1,5 @@
+from budget_manager.cli import run
+
+
 def main() -> None:
-    print("Hello from budget-manager!")
+    run()
